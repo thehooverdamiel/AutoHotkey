@@ -13,5 +13,10 @@ Return
    MsgBox You typed "btw".
 Return
 
-; Business 
+Numpad1 & Numpad2::
+  Run, C:\Program Files\Sublime Text 3\sublime_text.exe
+Return
 
+Numpad7 & Numpad9::
+	Run, C:\Users\Daniel\Documents
+Return
