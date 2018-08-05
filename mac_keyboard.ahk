@@ -15,3 +15,17 @@ f10::
 	Send, {Volume_Mute}
 Return
 
+; ;next song
+; +F1::	;the + means shift
+; Send {Media_Next}
+; return
+
+; ;previous song
+; +F2::
+; Send {Media_Prev}
+; return
+
+;play/pause
+f8::
+Send {Media_Play_Pause}
+return
